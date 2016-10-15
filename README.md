@@ -1,2 +1,3 @@
 # m3sllc
-Repository for all m3sllc skunk works
+M3 Solutions LLC
+Repository for all team skunk works
